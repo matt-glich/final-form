@@ -105,6 +105,6 @@
     }
   ],
   "dependencies": {
-    "@babel/runtime": "^7.10.0"
+    "@babel/runtime": "^7.12.1"
   }
 }
